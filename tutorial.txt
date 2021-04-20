@@ -1,0 +1,5 @@
+1. $laravel new <project_name>
+2. cd <project_name>
+3. $composer require laravel/helpers
+4. $composer require doctrine/dbal
+5. 
